@@ -1,5 +1,5 @@
 """
-Enunciado:
+Enunciado: 
 Desarrolla un servidor web básico utilizando la biblioteca http.server de Python.
 El servidor debe responder a una petición GET en la ruta raíz.
 
